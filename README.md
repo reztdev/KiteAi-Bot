@@ -4,7 +4,7 @@ An automated interaction bot for Kite AI platform with multi-wallet and proxy su
 
 ## Register 
 
-- https://testnet.gokite.ai/?r=kxsQ3byj 
+- https://testnet.gokite.ai?r=VUvRFSEG
 
 ## 🌟 Features
 
