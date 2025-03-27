@@ -422,8 +422,6 @@ async function main() {
     await waitForKeyPress();
     console.clear();
     
-    console.log(banner);
-    
     // Load wallets and proxies
     const wallets = await loadWallets();
     const proxyList = await loadProxies();
